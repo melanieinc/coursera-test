@@ -4,6 +4,7 @@ body  {
 
 h1 {
 	font-size: 75%;
+	text-align: center;
 }
 
 h2 {
@@ -12,5 +13,23 @@ h2 {
 }
 
 div {
-	background-color: f8f8f8;
+	background-color: #f8f8f8;
+	border: solid 1px #ffffff;
+	position: relative;
 }
+
+.Subtitlefirst {
+    background-color: #0d1b3e;
+    border: solid 1px #ffffff;
+    position: relative;
+    top: 65px;
+    right: 65px;
+
+  }
+
+  .Subtitlesecond {
+    background-color: #2b74d9;
+  }
+  .Subtitlethird {
+    background-color: #f49a0a;
+  }v
