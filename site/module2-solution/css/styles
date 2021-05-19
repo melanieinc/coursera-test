@@ -1,0 +1,16 @@
+body {
+	font-family: Arial;
+}
+
+h1 {
+	font-size: 75%;
+}
+
+h2 {
+	color: #e96d07;
+	font-size: 25%;
+}
+
+div {
+	background-color: f8f8f8;
+}
