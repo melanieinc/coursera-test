@@ -2,6 +2,9 @@ body  {
 	font-family: Arial;
 }
 
+* {
+  box-sizing: border-box;
+
 h1 {
 	font-size: 32px;
 	text-align: center;
@@ -77,18 +80,3 @@ div {
 	position: relative;
 }
 
-.Subtitlefirst {
-    background-color: #0d1b3e;
-    border: solid 1px #ffffff;
-    position: absolute;
-    top: -20px;
-    right: 0px;
-
-  }
-
-  .Subtitlesecond {
-    background-color: #2b74d9;
-  }
-  .Subtitlethird {
-    background-color: #f49a0a;
-  }v
