@@ -6,6 +6,12 @@ body  {
   box-sizing: border-box;
 }
 
+div {
+	background-color: #f8f8f8;
+	border: solid 1px #000000;
+	position: relative;
+}
+
 h1 {
 	font-size: 32px;
 	text-align: center;
