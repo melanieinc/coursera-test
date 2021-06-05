@@ -16,9 +16,9 @@ h1 {
 h2 {
 	color: #e96d07;
 	font-size: 24px;
-	position: absolute;
-  top: -12px;
-  left: 156px;
+	position: relative;
+  top: -15px;
+  left: -7px;
 }
 
 p {
@@ -36,12 +36,18 @@ p {
   width: 100%;
 }
 
+.cellContainer {
+ width: 25%;
+  float: left;
+}
+
 /********** Desktop devices only **********/
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3 {
     float: left;
     border: 1px solid green;
     margin: 10px;
+    position: relative;
   }
   .col-lg-1 {
     width: 25%;
