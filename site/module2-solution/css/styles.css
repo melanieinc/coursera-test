@@ -96,14 +96,10 @@ p {
     width: 50%;
   }
   
-  .col-md-12 {
-    float: left;
-    width: 100%;
-  }
- 
+  
  }
 
- /********** Mobile devices only **********/
+ /********** Mobile devices only
  @media (max-width: 767px) {
   .col-sm-1, .col-sm-2, .col-sm-3 {
     float: left;
@@ -120,7 +116,7 @@ p {
     width: 100%;
   }
  
-  }
+  }  **********/
 
 
 
