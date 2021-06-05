@@ -25,7 +25,7 @@ h1 {
 
 section {
 border: 1px solid #000000;
-background-color: d4d1d1;
+background-color: #d4d1d1;
 margin: 10px;
 }
 
@@ -87,7 +87,7 @@ p {
     width: 25%;
   }
  
-  } **********/
+  }  **********/
 
 /********** Tablet devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
