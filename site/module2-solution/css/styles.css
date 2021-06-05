@@ -36,10 +36,6 @@ p {
   width: 100%;
 }
 
-.cellContainer {
- width: 25%;
-  float: left;
-}
 
 /********** Desktop devices only **********/
 @media (min-width: 992px) {
