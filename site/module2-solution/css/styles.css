@@ -46,7 +46,11 @@ section.sushi>h2 {
   background-color: #65cc3f;
 }
 
-p {
+section>p {
+  padding:  30px 10px 10px 15px;
+}
+
+/** p {
   
   width: 90%;
   height: 150px;
@@ -54,7 +58,7 @@ p {
   margin-left: auto;
   margin-top: 50px;
   margin-bottom: 60px;
-}
+} **/
 
 /* Simple Responsive Framework. */
 .row {
