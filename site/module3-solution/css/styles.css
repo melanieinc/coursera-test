@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+
+}
+#header-nav {
+  background-color: gray;
+  border: 1px solid black;
+}
+.nav-brand h1 {
+  text-align: left;
+  font-family:sans-serif;
+
+}
+div ul {
+  background-color: LightGray;
+  width: 100%;
+}
+.mynav {
+    background-color: LightGray;
+}
+ul li a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+}
+.mydiv1 {
+  position: relative;
+  background-color: #3f48cc;
+}
+#myh3 {
+  top:0;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  font-color: #ffffff;
+  font-weight: bold;
+
+}
